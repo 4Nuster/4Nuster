@@ -1,4 +1,4 @@
-### whomst'd've'ly'yaint'nt'ed'ies's'y'es theｆｕｃｃ calls bone hurting juice "cereal sauce"
+### whomst'd've'ly'yaint'nt'ed'ies's'y'es the くそ calls bone hurting juice "cereal sauce"
 
 <!--
 **4Nuster/4Nuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
