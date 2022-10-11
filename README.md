@@ -1,10 +1,11 @@
 # Greetings! Me name's Yassine Bacha
 ### Frontend Developer | MSc in Computer Vision
 #### Interested in:
- - Game Development and Virtual Reality
- - Artificial Intelligence and Machine Learning
- - Graphic Design
- - UI/UX
+ 🖥 Web development<br>
+ 👾 Game Development and Virtual Reality<br>
+ 🤖 Artificial Intelligence and Machine Learning<br>
+ 🖌 Graphic Design<br>
+  👆 UI/UX
  
 <!--
 **4Nuster/4Nuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
