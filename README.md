@@ -1,5 +1,5 @@
 # Greetings! Me name's Yassine Bacha
-### Frontend Developer | MSc in Computer Vision
+### Software Developer | MSc in Computer Vision
 #### Interested in:
  🖥 Web development<br>
  👾 Game Development and Virtual Reality<br>
